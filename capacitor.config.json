@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Kamionify",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

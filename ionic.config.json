@@ -1,0 +1,8 @@
+{
+  "name": "Kamionify",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "78b883c8"
+}
